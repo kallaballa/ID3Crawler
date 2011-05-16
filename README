@@ -1,0 +1,1 @@
+ID3Crawler recursivly traverses a directory and records id3 information found in media files in a m3u playlist.
